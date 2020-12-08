@@ -6,6 +6,11 @@
   <artifactId>docker-integration-sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <build>
+  
+  <finalName>docker-jenkins-integration-sample</finalName>
+  
+  </build>
 
   <name>docker-integration-sample</name>
   <url>http://maven.apache.org</url>
